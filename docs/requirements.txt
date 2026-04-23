@@ -67,7 +67,7 @@ jmespath==1.1.0
     # via
     #   itemloaders
     #   parsel
-lxml==6.0.2
+lxml==6.1.0
     # via
     #   parsel
     #   scrapy
@@ -153,7 +153,7 @@ sphinx-rtd-theme==3.1.0
     # via
     #   -r requirements.in
     #   sphinx-rtd-dark-mode
-sphinx-scrapy @ git+https://github.com/scrapy/sphinx-scrapy.git@f20366277f2598d0c8a60e55fe282aff2da40dcf
+sphinx-scrapy @ git+https://github.com/scrapy/sphinx-scrapy.git@0.8.3
     # via -r requirements.in
 sphinx-sitemap==2.9.0
     # via sphinx-scrapy
