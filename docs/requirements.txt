@@ -46,7 +46,7 @@ hyperframe==6.1.0
     # via h2
 hyperlink==21.0.0
     # via twisted
-idna==3.11
+idna==3.15
     # via
     #   hyperlink
     #   requests
