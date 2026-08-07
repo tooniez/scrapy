@@ -38,9 +38,9 @@ docutils==0.22.4
     #   sphinx-rtd-theme
 filelock==3.25.2
     # via tldextract
-h2==4.3.0
+h2==4.4.1
     # via -r requirements.in
-hpack==4.1.0
+hpack==4.2.0
     # via h2
 hyperframe==6.1.0
     # via h2
